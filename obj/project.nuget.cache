@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/AaiMl09Skc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Phoenix\\source\\repos\\aqualearn-pomodoro\\aqualearn-pomodoro\\aqualearn-pomodoro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Phoenix\\.nuget\\packages\\netcoreaudio\\2.0.1\\netcoreaudio.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

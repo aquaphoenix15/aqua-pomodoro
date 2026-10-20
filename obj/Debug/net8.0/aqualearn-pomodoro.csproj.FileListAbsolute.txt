@@ -1,0 +1,17 @@
+C:\Users\Phoenix\source\repos\aqualearn-pomodoro\aqualearn-pomodoro\obj\Debug\net8.0\aqualearn-pomodoro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phoenix\source\repos\aqualearn-pomodoro\aqualearn-pomodoro\obj\Debug\net8.0\aqualearn-pomodoro.AssemblyInfoInputs.cache
+C:\Users\Phoenix\source\repos\aqualearn-pomodoro\aqualearn-pomodoro\obj\Debug\net8.0\aqualearn-pomodoro.AssemblyInfo.cs
+C:\Users\Phoenix\source\repos\aqualearn-pomodoro\aqualearn-pomodoro\obj\Debug\net8.0\aqualearn-pomodoro.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\source\repos\aqualearn-pomodoro\aqualearn-pomodoro\bin\Debug\net8.0\aqualearn-pomodoro.exe
+C:\Users\Phoenix\source\repos\aqualearn-pomodoro\aqualearn-pomodoro\bin\Debug\net8.0\aqualearn-pomodoro.deps.json
+C:\Users\Phoenix\source\repos\aqualearn-pomodoro\aqualearn-pomodoro\bin\Debug\net8.0\aqualearn-pomodoro.runtimeconfig.json
+C:\Users\Phoenix\source\repos\aqualearn-pomodoro\aqualearn-pomodoro\bin\Debug\net8.0\aqualearn-pomodoro.dll
+C:\Users\Phoenix\source\repos\aqualearn-pomodoro\aqualearn-pomodoro\bin\Debug\net8.0\aqualearn-pomodoro.pdb
+C:\Users\Phoenix\source\repos\aqualearn-pomodoro\aqualearn-pomodoro\obj\Debug\net8.0\aqualearn-pomodoro.dll
+C:\Users\Phoenix\source\repos\aqualearn-pomodoro\aqualearn-pomodoro\obj\Debug\net8.0\refint\aqualearn-pomodoro.dll
+C:\Users\Phoenix\source\repos\aqualearn-pomodoro\aqualearn-pomodoro\obj\Debug\net8.0\aqualearn-pomodoro.pdb
+C:\Users\Phoenix\source\repos\aqualearn-pomodoro\aqualearn-pomodoro\obj\Debug\net8.0\aqualearn-pomodoro.genruntimeconfig.cache
+C:\Users\Phoenix\source\repos\aqualearn-pomodoro\aqualearn-pomodoro\obj\Debug\net8.0\ref\aqualearn-pomodoro.dll
+C:\Users\Phoenix\source\repos\aqualearn-pomodoro\aqualearn-pomodoro\bin\Debug\net8.0\NetCoreAudio.dll
+C:\Users\Phoenix\source\repos\aqualearn-pomodoro\aqualearn-pomodoro\obj\Debug\net8.0\aqualearn-pomodoro.csproj.AssemblyReference.cache
+C:\Users\Phoenix\source\repos\aqualearn-pomodoro\aqualearn-pomodoro\obj\Debug\net8.0\aqualear.BFAE818A.Up2Date
